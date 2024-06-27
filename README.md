@@ -1,8 +1,8 @@
 # Directory structure of data set folder
-<p>chest_xray<\p>
-├── test
-│   ├── NORMAL
-│   └── PNEUMONIA
-└── train
-    ├── NORMAL
-    └── PNEUMONIA
+chest_xray<br>
+├── test<br>
+│   ├── NORMAL<br>
+│   └── PNEUMONIA<br>
+└── train<br>
+    ├── NORMAL<br>
+    └── PNEUMONIA<br>
