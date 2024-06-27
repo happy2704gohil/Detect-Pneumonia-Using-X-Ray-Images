@@ -1,7 +1,6 @@
 # Directory structure of data set folder
 
 <body>
-    <h1>Directory Structure</h1>
     <ul>
         <li class="folder">chest_xray
             <ul>
