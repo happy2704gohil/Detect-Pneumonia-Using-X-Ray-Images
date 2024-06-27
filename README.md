@@ -1,21 +1,5 @@
 # Directory structure of data set folder
-<html>
-<head>
-    <title>Directory Structure</title>
-    <style>
-        ul {
-            list-style-type: none;
-        }
-        .folder::before {
-            content: "📂";
-            margin-right: 5px;
-        }
-        .file::before {
-            content: "📄";
-            margin-right: 5px;
-        }
-    </style>
-</head>
+
 <body>
     <h1>Directory Structure</h1>
     <ul>
@@ -37,5 +21,5 @@
         </li>
     </ul>
 </body>
-</html>
+
 
