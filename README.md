@@ -1,5 +1,5 @@
 # Directory structure of data set folder
-chest_xray
+<p>chest_xray<\p>
 ├── test
 │   ├── NORMAL
 │   └── PNEUMONIA
